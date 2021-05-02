@@ -1,0 +1,8 @@
+.idea/
+django_env/
+key.py
+*.pyc
+
+media/
+static/
+staticfiles/
